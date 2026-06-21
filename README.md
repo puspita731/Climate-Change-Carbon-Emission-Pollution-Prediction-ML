@@ -2,8 +2,7 @@
 ### Prediction Model for Climate Change, Carbon Emission, and Pollution Using Machine Learning
 
 ## Overview
-
-Climate change, carbon emissions, and environmental pollution are among the most pressing global challenges. This project presents a machine learning and deep learning framework for forecasting climate change indicators, carbon emissions, and pollution levels using historical environmental, economic, and energy-related data.
+Developed as part of CSE427 (Machine Learning), BRAC University.Climate change, carbon emissions, and environmental pollution are among the most pressing global challenges. This project presents a machine learning and deep learning framework for forecasting climate change indicators, carbon emissions, and pollution levels using historical environmental, economic, and energy-related data.
 
 The study evaluates and compares the performance of Random Forest, XGBoost, Bidirectional LSTM (Bi-LSTM), and a Hybrid Ensemble Model for environmental forecasting.
 
